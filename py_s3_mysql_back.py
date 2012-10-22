@@ -44,8 +44,8 @@ def s3upload(backupfile):
 
 
 
-user='root'
-passwd='wartsd3v'
+user='username'
+passwd='password'
 host='localhost'
 
 try:
